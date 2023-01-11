@@ -18,6 +18,7 @@ public class DateUtils {
     //Simulación de la implementación del caso de uso 21 - Rol: Desarrollador Junior
     //Simulación implementación del caso de uso 18 - Rol: Arquitecto Software
     //Simulación implementación del caso de uso 18 - Rol: Desarrollador Senior
+    //Simulación implementación del caso de uso 18 - Rol: Desarrollador Junior
     //private static final String FORMAT_DATE="dd-MMM-yyyy,hh:mm aa";
     private static final String FORMAT_TIME = "HH:mm:ss:SSS";
     private static final String FORMAT_DATE = "d-MMM-yyyy,HH:mm:ss aa";
